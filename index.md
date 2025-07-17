@@ -1,4 +1,5 @@
-# Emanote Template
+# Fiona Shyne
+
 
 This is a sample repository of Markdown notes, rendered using [Emanote] and hosted on [[GitHub Pages]], while enabling editing in the likes of [Visual Studio Code](https://emanote.srid.ca/start/resources/editors/vscode). For details, see https://github.com/srid/emanote-template.
 
